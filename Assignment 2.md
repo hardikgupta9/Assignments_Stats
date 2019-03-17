@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 2
 
 ### Question 1
 The question talks about a picture that produces a better apples-to-apples comparison. There are several variables that might affect the rent of a building namely: cluster, age, renovated, class, amenities, net, employment growth in area.
@@ -9,8 +9,8 @@ To further group this data we can conjecture that:
 
 And we have the following output
 
-![]("Assignments_Stats/Qs_1_graph_HG.png")
-![]("My-Projects/test1.PNG")
+![]("https://github.com/hardikgupta9/Assignments_Stats/Qs_1_graph_HG.png")
+![]("My-Projects/1_A2.PNG")
 ![]("My-Projects/test1.PNG")
 ![]("My-Projects/test1.PNG")
 ![]("My-Projects/test1.PNG")
