@@ -9,7 +9,7 @@ To further group this data we can conjecture that:
 
 And we have the following output
 
-![]("My-Projects/Qs_1_graph_HG.png")
+![]("Assignments_Stats/Qs_1_graph_HG.png")
 ![]("My-Projects/test1.PNG")
 ![]("My-Projects/test1.PNG")
 ![]("My-Projects/test1.PNG")
