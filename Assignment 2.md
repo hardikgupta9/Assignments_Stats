@@ -10,7 +10,7 @@ To further group this data we can conjecture that:
 And we have the following output
 
 ![]("https://github.com/hardikgupta9/Assignments_Stats/Qs_1_graph_HG.png")
-![]("My-Projects/1_A2.PNG")
+![]("https://github.com/hardikgupta9/My-Projects/1_A2.PNG")
 ![]("My-Projects/test1.PNG")
 ![]("My-Projects/test1.PNG")
 ![]("My-Projects/test1.PNG")
